@@ -1,7 +1,7 @@
 import React from 'react';
 
 export const Footer = () => (
-  <div className="text-center p-10 mt-10 border-t dark:border-gray-700 border-gray-200 ">
+  <div className="text-center pt-10 pb-10 mt-10 border-t dark:border-gray-700 border-gray-200 ">
     © 2022 Searcher, Inc.&emsp;|&emsp;
     <a
       href="https://www.linkedin.com/in/jashanwarraich/"
@@ -19,7 +19,7 @@ export const Footer = () => (
       rel="noopener noreferrer"
       class="no-underline hover:underline"
     >
-      <img src="/images/git.png" className="h-6 inline" alt="LinkedIn" />
+      <img src="/images/git.png" className="h-6 inline" alt="GitHub" />
       /jashanwarraich
     </a>
   </div>
